@@ -34,7 +34,3 @@
   <a href="https://velog.io/@hwnsng"> <img src="https://img.shields.io/badge/velog-12b886?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@hwnsng"> </a>
 </div>
 
-## Github-stats ⏲️  
-
-<img src="https://raw.githubusercontent.com/hwnsng/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hwnsng/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
-
