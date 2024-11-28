@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7ED4F6,100:B4F3F6&width=2000&height=240&section=header&text=Hello!!%20I'm%20HwanSeong!&fontSize=50&fontColor=ffffff )  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffff,100:ffffff&width=2000&height=240&section=header&text=Hello!!%20I'm%20HwanSeong!&fontSize=50&fontColor=ffffff )  
 
 
 <div align="center">
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=96A5F7&center=true&vCenter=true&width=1000&lines=“열심히+하는+학생+개발자+입니다”;“fronend+개발자+입니다”;)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=45&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=“열심히+하는+학생+개발자+입니다”;“fronend+개발자+입니다”;)](https://git.io/typing-svg) 
   
 </div>
 
