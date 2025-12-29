@@ -1,16 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffff,100:ffffff&width=2000&height=240&section=header&text=Hello!!%20I'm%20HwanSeong!&fontSize=50&fontColor=ffffff )  
 
-
 <div align="center">
-  <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=I'm+a+Student+Developer;I'm+a+Frontend+Developer)](https://git.io/typing-svg)
-
-  
-</div>
-
 # Student Frontend Develop
-
+</div>
+<br>
  
 <h2>Stacks!</h2>
 <div align="center">
