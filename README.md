@@ -31,10 +31,6 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-[![HwanSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwnsng)](https://github.com/hwnsng/github-readme-stats)
-
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
