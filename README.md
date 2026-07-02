@@ -33,10 +33,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hwnsng&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwnsng&layout=compact&theme=transparent&hide_border=true" />
-</p>
+[![HwanSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwnsng)](https://github.com/hwnsng/github-readme-stats)
+
+<h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hwnsng&theme=transparent&hide_border=true" />
